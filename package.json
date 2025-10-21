@@ -1,0 +1,29 @@
+{
+  "name": "mockup-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "sonar": "sonar-scanner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aeika-Eyemetric/Mockup-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aeika-Eyemetric/Mockup-Project/issues"
+  },
+  "homepage": "https://github.com/Aeika-Eyemetric/Mockup-Project#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "sonar-scanner": "^3.1.0"
+  }
+}
