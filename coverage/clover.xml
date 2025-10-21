@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1761049214493" clover="3.2.0">
-  <project timestamp="1761049214493" name="All files">
+<coverage generated="1761050281677" clover="3.2.0">
+  <project timestamp="1761050281677" name="All files">
     <metrics statements="21" coveredstatements="21" conditionals="14" coveredconditionals="13" methods="6" coveredmethods="6" elements="41" coveredelements="40" complexity="0" loc="21" ncloc="21" packages="1" files="2" classes="2"/>
     <file name="authService.js" path="C:\Users\Yika\OneDrive\Documents\GitHub\Mockup-Project\src\authService.js">
       <metrics statements="15" coveredstatements="15" conditionals="14" coveredconditionals="13" methods="2" coveredmethods="2"/>
